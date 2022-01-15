@@ -1,0 +1,12 @@
+{
+    "category" : [
+        {"idCate" : 1, "name" : "Lịch sử"},
+        {"idCate" : 2, "name" : "Đời sống"},
+        {"idCate" : 3, "name" : "Nghệ thuật sống"}
+    ],
+    "products" : [
+        {"id" : 1, "cateId" : 1 ,"name" : "Đại Việt sử ký toàn thư", "price" : 96000},
+        {"id" : 2, "cateId" : 2 ,"name" : "Lo âu xã hội", "price" : 127000},
+        {"id" : 3, "cateId" : 3 ,"name" : "Sức mạnh của sự tử tế", "price" : 73000}
+    ]
+}
